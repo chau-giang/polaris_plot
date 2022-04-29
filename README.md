@@ -1,2 +1,3 @@
 # polaris_plot
-Analyse POLARIS results
+Analyse POLARIS results and visualization
+
